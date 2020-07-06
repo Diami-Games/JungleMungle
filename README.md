@@ -10,5 +10,6 @@ Current progress:
 - Second Alpha
   - [ ] Proper terrain
   - [ ] Proper character and enemies
+  - [ ] Good UI design
 - Other progress
   - [ ] Online multiplayer
